@@ -61,7 +61,7 @@ body {
   font-weight: 600;
   font-style: normal;
   text-decoration: none;
-  padding-inline: 15%;
+  padding-inline: 10px;
   text-align: center;
 }
 #button:hover {
